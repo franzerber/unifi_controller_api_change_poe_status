@@ -1,0 +1,8 @@
+{
+    "controller_ip": "192.168.99.99",
+    "controller_api_user": "admin",
+    "controller_api_port": "8443",
+    "controller_auth_url": "api/login",
+    "switch_mac": "28:70:4e:cc:55:bb",
+    "ports": [2, 3]
+}

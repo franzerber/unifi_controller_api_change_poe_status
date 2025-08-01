@@ -1,0 +1,7 @@
+version: '3.7'
+
+services:
+  unifi_change_poe_state:
+    image: unifi_change_poe_state:latest
+    volumes:
+      - ./secrets:/usr/src/app/secrets:ro
